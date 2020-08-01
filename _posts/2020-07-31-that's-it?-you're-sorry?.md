@@ -25,6 +25,7 @@ I look into the deep, brown eyes that often gaze at me from the other side of th
 Something comes into her eyes. They blink. They become two overflowing ponds, and I'm standing by her side, my lips pressing against the streams.
 <br />
 <br />
+<br />
 I liked going early so I could have that sweet concrete all to myself. The echo of the bounce reserved for my ears. At the start, my dribbling would follow a slow, steady beat. If you put your head to the ground, you'd be listening to a resting heart. Then it'd get fast, even erratic. My hand would become a blur moving up and down, until the ball was rolling away and I was sitting down against the fence.
 
 Next to the court there was a playground, and in the middle there were painted dolphins, jets of water spraying from their mouths. Underneath, neighborhood kids would jump and play. They couldn't get enough. Where the water made a puddle, they'd sit and roll around. You'd watch this, and you'd know the water kept a secret. If you danced in the drizzle, it would be revealed. When I was out of sweat I'd walk by the dolphins, but only enough to feel a light mist.
@@ -88,6 +89,7 @@ There is a moment of suspension as they float upwards, seeming to resist gravity
 The ball is gently tossed by my feet, spinning away. "This is street ball, nobody's calling fouls," he says, and as I look up, I see he is smirking.
 <br />
 <br />
+<br />
 He squats deeply and slaps the ground twice with both hands, raising his outstretched arms wide. He stares at me intensely. I see the white of his eyes. I’m sick of it. Holding the ball tightly, I feint right and immediately shift my weight into stepping left. He leaps to my right and with one hard dribble I pass him in the other direction. I fly toward the basket. I jump and my left arm extends to lift the ball up and against the backboard. I'm floating. Then something wide and flat lands across my eyes. My neck is bending backward. I feel fingernails on the side of my face, and then hot concrete underneath my back and legs.
 
 "Run it back," says a voice from the clouds. I can hear the ball bouncing away from me. There are footsteps coming closer. I lunge. We're on the ground and I'm using my head to pin his chest down. I feel my fists strike deeply into the sides of his stomach, the fat around his belly seeming to cushion each blow. I lift my head for a breath and see Pleats sitting on the bench looking at us. Searching. I squirm upstream until I feel his stomach firmly under mine.
@@ -95,6 +97,7 @@ He squats deeply and slaps the ground twice with both hands, raising his outstre
 My knees dig into his sides, and I can't believe it, but I'm thinking of Emma. I'd be in this position, draped over her, except against a bed instead of the unforgiving ground. I’d lean a bit back on my knees so she could comfortably breathe. She liked it when I used my legs to lightly squeeze her torso. I'd lean forward, tilting my head to press my face against her neck. She'd be still. I'd breathe deeply, and it'd sound like waves crashing against the beach.
 
 My legs tighten their hold, trying to crush him, yet all I can hear is myself gasping for air. I put all my weight onto his chest. His blue shirt has rolled up so I can feel skin slick with sweat, his limbs flailing beneath me, like a giant fish trying to get back to water. Then there’s a hand gripping my shoulder, and another wrapped around my wrist. I’m frozen and I struggle. A hard, heavy shape from below connects with my chin and I’m thrown back. My hands grab at something, anything. I feel thick corduroy cloth, and my fingers squeeze the coarse ridges.
+<br />
 <br />
 <br />
 I realize I left my ball behind when I reach the dolphins, but I don’t feel like going back. The dolphins continue to spout as I walk past them. I keep my distance. My knees ache with every step, and I can feel the tears in my skin that will sting soon in the shower, the bruises that won't appear until tomorrow morning. I am in my building, slowly ascending, looking for my apartment door each time I turn the corner. Once inside, I walk to the bathroom.
