@@ -16,5 +16,5 @@ entries:
     entries: false
     
   - title: stories
-    url: site.stories.testing.md
+    url: /stories/testing
     entries: false
