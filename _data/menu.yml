@@ -16,6 +16,5 @@ entries:
     entries: false
     
   - title: stories
-    story_list: site.stories.testing
-    url: false
+    url: site.stories.testing
     entries: false
