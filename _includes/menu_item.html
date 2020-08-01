@@ -11,6 +11,10 @@
     {% if item.post_list == true %}
       {% include post_list.html %}
     {% endif %}
+  
+    {% if item.story_list == true %}
+      {% include story_list.html %}
+    {% endif %}
 
     {% if item.entries != blank %}        
       {% include menu_item.html collection=item.entries %}
