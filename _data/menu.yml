@@ -10,12 +10,12 @@ entries:
       - title: twitter
         url: https://twitter.com/iam_nChen
 
-  - title: stories
+  - title: asdasd
     post_list: true
     url: false
     entries: false
-  
-  - title: story
+    
+  - title: stories
     story_list: true
     url: false
     entries: false
