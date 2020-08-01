@@ -1,5 +1,6 @@
 ---
 layout: post
+title: That's It? You're Sorry?
 slug: ti
 ---
 
