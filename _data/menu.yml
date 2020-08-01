@@ -12,12 +12,12 @@ entries:
       - title: linkedin
         url: https://www.linkedin.com/in/nathan-chen1/
 
-  - title: blog
-    post_list: true
-    url: false
-    entries: false
-    
   - title: stories
     story_list: true
+    url: false
+    entries: false
+
+  - title: blog
+    post_list: true
     url: false
     entries: false
