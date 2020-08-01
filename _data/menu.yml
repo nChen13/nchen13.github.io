@@ -6,7 +6,7 @@ entries:
     url: false
     entries:
       - title: about
-        url: false
+        url: about
       - title: twitter
         url: https://twitter.com/iam_nChen
       - title: linkedin
