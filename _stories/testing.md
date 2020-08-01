@@ -1,6 +1,6 @@
 ---
 layout: story
-title: just testing
+title: just testing2
 ---
 
 Just testing
