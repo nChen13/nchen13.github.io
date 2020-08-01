@@ -1,0 +1,9 @@
+{% if site.stories.size > 0 %}
+  <ul>
+    {% for story in site.stories %}
+      <li>
+        {{ story.date | date: site.theme_config.date_format }} <a href="{{ story.url | relative_url }}">{{ story.title | downcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
