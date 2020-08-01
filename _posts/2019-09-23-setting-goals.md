@@ -42,4 +42,4 @@ Notice the difference here: situating around process is a sign of respect for th
 Goal-setting is no easy task. It requires the ability to step in—introspection—and to step out, or get meta. Although the tempo of progress is enticing, it’s worthwhile to begin with process and move toward outcomes. The concept of learning environments can help you goal-set in situations that reflect VUCA.
 
 ---
-[^1]: concept researched by Robin Hogarth.
+[^1]: concept [researched](https://www.semanticscholar.org/paper/The-Two-Settings-of-Kind-and-Wicked-Learning-Hogarth-Lejarraga/5c5d33b858eaf38f6a14b3f042202f1f44e04326?p2df) by Robin Hogarth.
