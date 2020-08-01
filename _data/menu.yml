@@ -15,3 +15,7 @@ entries:
     url: false
     entries: false
   
+- title: story
+    story_list: true
+    url: false
+    entries: false
