@@ -16,5 +16,6 @@ entries:
     entries: false
     
   - title: stories
-    url: /story_list.html
+    story_list: true
+    url: false
     entries: false
