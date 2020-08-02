@@ -65,7 +65,9 @@ He stands up and gives me a confused look, complete with a sham of a smile. The 
 "Can you believe these folk?", he says. "Coming here, not sharing the court?" I don't think Pleats understood any of that, but he raises his shoulders and hands. His shirt comes up for a moment and I catch a glimpse of a stomach dotted with hairs.
 
 I straighten my own shirt. "Alright, we'll play. Just three points."
-
+<br />
+<br />
+<br />
 I let him start out with the ball. Guests first. He drives toward the basket and I'm able to keep up with each step, easily. He stops abruptly near the backboard, with myself still stuck to him like super glue. He pivots once and I stay wrapped around him. There’s no way he’s getting a shot off. He suddenly thrusts into my chest with his shoulder. I'm pushed back and he tosses the ball into the net.
 
 "That's a foul," I exclaim, trying to regain my breath.
