@@ -3,7 +3,7 @@ author: nathan chen # name of site's author
 email: nathanielchen8@gmail.com # email of site's author
 url:  # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Impressions, not teachings.
+  impressions, not teachings.
 
 permalink: /:slug.html
 
