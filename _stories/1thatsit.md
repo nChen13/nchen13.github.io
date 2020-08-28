@@ -4,7 +4,7 @@ title: That's It? You're Sorry?
 slug: tiys
 ---
 
-I go out there when I need to celebrate. When I want to feel a rush. I also go out there when something’s nagging at me, pulling at my subconscious. I was on that court a lot. It’s left a mark. That's where I went the morning after I put her toothbrush in a plastic bag, folded her sleepwear, and left both in a tote bag just inside my building entrance. I know the court well.
+I go out there when I need to celebrate. When I want to feel a rush. I go out there when something’s nagging at me, pulling at my subconscious. I was on that court a lot. It’s left a mark. That's where I went the morning after I put her toothbrush in a plastic bag, folded her sleepwear, and left both in a tote bag just inside my building entrance. I know the court well.
 
 The rubber of your soles would melt if you pushed too hard against the scorching summer concrete. Triangles, diamonds, circles—it didn’t matter what was on the bottom of your shoes. Gone in two pivots and a jump. There are pairs in my closet where the bottoms are smooth now, like you could slide down your hallway with them.
 
@@ -36,7 +36,7 @@ As I enter through the court’s wire entrance, I recognize a man outside on the
 
 He’d smile too, unlike the others that drifted by you in the park or bodega. Always seeking something. They wore clothes that were tight, and their skin was too, stretched over muscle and bone, all of it jutting out from beneath like something was trying to get out. They weren't afraid of getting close, and you didn't want to touch them, knew their skin was moments away from splitting, and were afraid they'd infect you and make you unclean. When they were close you could see their stained teeth and rosy eyes like two angry suns.
 
-As I begin to dribble, Pleats turns to watch. He grins at me but doesn't say a word. I don't mind it when he watches. I don’t know what he sees, but he’s quiet. In the afternoon there’d be rubbernecks clinging to the outside of the fence, ooh-ing and aah-ing at games. Save the applause for the actors.
+As I begin to dribble, Pleats turns to watch. He grins at me but doesn't say a word. I don't mind it when he watches. I don’t know what he sees, but at least he’s quiet. In the afternoon there’d be rubbernecks clinging to the outside of the fence, ooh-ing and aah-ing at games. Save the applause for the actors.
 
 I don't know how Pleats stays out here all the time. I saw a boy, maybe seven or eight, bring him a bottle of water once. Neither of them said a word. Pleats looked at him for a moment, like he was searching for something. Then his gaze left, and that loose grin of his returned. I watched the boy walk back to a waiting woman on the corner. She hugged him.
 
