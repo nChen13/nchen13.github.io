@@ -3,7 +3,7 @@ layout: story
 title: Wholeness in a Timeless Activity
 slug: wholeness
 ---
-![title](images/test.png)
+<img src="images/test.png" width="600">
 
 There are some activities the wealthy occasionally lust after. But there is one they will never stop avoiding.
 
