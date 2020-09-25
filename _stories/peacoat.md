@@ -1,6 +1,8 @@
 ---
 layout: story
 title: Peacoat
+slug: peacoat
+date: 2012-09-03
 ---
 
 Eggs hissed angrily on an iron skillet. A laptop sat a few inches away, the video of a wizened preacher playing on the screen. His voice was loud and booming, as if he could hear the nearby sizzling he was up against. A fan hummed from a vent above, gently adding to the cacophony.
@@ -11,7 +13,7 @@ Ruth’s hands laid the pieces of tomato flat and the knife descended rapidly, u
 
 She wiped the sweat from her forehead, feeling a new smear of oil in its place. She heard a series of knocks hit the front door.
 
-“Coming!”, she said as she turned off the stove. At the door, she hastily dried her hands against her pants and pulled it open. 
+“Coming!”, she said as she turned off the stove. At the door, she hastily dried her hands against her pants and pulled it open.
 
 Her son Matthew stood there with a wide grin. Although Ruth would always see his once boyish face — the shy child who would hide behind her legs, peeking up at her from below — Matthew’s face was now narrow and sharp. He had inherited the thick eyebrows of his Taiwanese father, and they made him look more serious than she preferred. He wore a white t-shirt and dark jeans, cuffed at the ankles.
 
@@ -63,11 +65,11 @@ Ruth looked back up at him and said, “How is your Uncle Alvin?” Alvin was he
 
 “You haven’t seen him in a while?” Ruth asked.
 
-“Yeah, I haven’t seen him,” Matthew said, after a pause. 
+“Yeah, I haven’t seen him,” Matthew said, after a pause.
 
 Ruth slightly cocked her head sideways. “Are you going to a different church?”
 
-“I’ve been going to a couple places, just looking around,” Matthew said. 
+“I’ve been going to a couple places, just looking around,” Matthew said.
 
 Ruth placed her hand firmly over his.
 
@@ -79,13 +81,13 @@ Matthew pulled his hand away and stared at her.
 
 “No, we’re not arguing about this,” Ruth said. She was still.
 
-“So going to church where nobody is doing anything is okay, but not protesting?” Matthew’s voice rose. “I can’t do something actually worthwhile?” 
+“So going to church where nobody is doing anything is okay, but not protesting?” Matthew’s voice rose. “I can’t do something actually worthwhile?”
 
 “It’s different,” Ruth hissed. “You think you’re going to change something by shouting?”
 
-Matthew’s eyes widened. “More than you’re going to change,” he said. “You live in your Asian bubble. All you have are Asian friends.” 
+Matthew’s eyes widened. “More than you’re going to change,” he said. “You live in your Asian bubble. All you have are Asian friends.”
 
-Ruth remembered a moment from when she had first moved to the states. She had been waiting alone at a bus stop before class. A car full of teenagers slowed down as it passed. One of them grinned at her and stretched his eyes with his hands. 
+Ruth remembered a moment from when she had first moved to the states. She had been waiting alone at a bus stop before class. A car full of teenagers slowed down as it passed. One of them grinned at her and stretched his eyes with his hands.
 
 “Hey,” Ruth said.
 
@@ -129,7 +131,7 @@ Using both hands to hoist the jacket off its rack, she walked to the sales count
 <br />
 “Try it on,” Ruth urged.
 
-Mathew inserted one arm into a sleeve, and then the other. Ruth’s eyes glowed like a warm candle. He straightened the jacket with his hands. It was a little big. 
+Mathew inserted one arm into a sleeve, and then the other. Ruth’s eyes glowed like a warm candle. He straightened the jacket with his hands. It was a little big.
 
 Matthew took off the jacket and laid it on top of the box.
 
