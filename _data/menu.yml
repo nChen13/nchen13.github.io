@@ -17,7 +17,13 @@ entries:
   - title: stories
     story_list: true
     url: false
-    entries: false
+    entries:
+      - title: wholeness in a timeless activity
+        url: https://www.yakcollective.org/projects/astonishing-stories/wholeness-in-a-timeless-activity/
+        entries:
+          - title: published in "astonishing stories", an anthology of networked speculative fiction.
+            url: false
+
 
   - title: blog
     post_list: true
