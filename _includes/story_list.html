@@ -4,6 +4,11 @@
       <li>
         <a href="{{ story.url | relative_url }}">{{ story.title | downcase }}</a>
       </li>
+      {% if story.intro %}
+        <ul>
+          <li>{{ story.intro }}</li>
+        </ul>
+      {% endif %}
     {% endfor %}
   </ul>
 {% endif %}

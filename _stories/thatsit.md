@@ -3,6 +3,7 @@ layout: story
 title: That's It? You're Sorry?
 slug: thatsit
 date: 2012-09-2
+intro: start here.
 ---
 
 I go out there when I need to celebrate. When I want to feel a rush. I go out there when something’s nagging at me, pulling at my subconscious. I was on that court a lot. It’s left a mark. That's where I went the morning after I put her toothbrush in a plastic bag, folded her sleepwear, and left both in a tote bag just inside my building entrance. I know the court well.
