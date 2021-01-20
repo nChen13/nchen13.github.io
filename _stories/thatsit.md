@@ -2,7 +2,7 @@
 layout: story
 title: That's It? You're Sorry?
 slug: thatsit
-date: 2012-09-2
+date: 2012-09-1
 intro: start here.
 ---
 

@@ -2,8 +2,8 @@
 layout: story
 title: Will you trust me?
 slug: willyoutrustme
-date: 2012-09-5
-intro: Inspired by Heaven's Gate and Raymond Carver.
+date: 2012-09-2
+intro: inspired by heaven's gate and raymond carver.
 ---
 
 Dear Madam,
