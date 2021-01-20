@@ -31,7 +31,7 @@ Your son is caught in this web. I believe there’s still hope for him. I’ve b
 
 Growing up, I only had my dad. He was a very successful politician. You know my last name and can probably guess his identity. Even as a single father he was rarely home because of his career. Needless to say I was very independent.
 
-I quickly learned that my dad was different from others. When I brought home textbooks from school he’d dismiss them as government propaganda. I took this seriously because he was part of the government, so he would know these things. He’d tell me about the stars and the comets and what they meant. He’d hint at a day coming, a day of graduation. He’d leave books laying around with titles like The Ascension (although I would never see him read him). I knew he was caught up in something.
+I quickly learned that my dad was different from others. When I brought home textbooks from school he’d dismiss them as government propaganda. I took this seriously because he was part of the government, so he would know these things. He’d tell me about the stars and the comets and what they meant. He’d hint at a day coming, a day of graduation. He’d leave books laying around with titles like The Ascension (although I would never see him read them). I knew he was caught up in something.
 
 Oh, and his friends also only came at night, and they wore long, dark robes. And then there was the time in middle school. I opened the trunk to our car and found a bloodied white dress. I shut the trunk immediately but then saw the curtains to our living room move. I stayed at a friend’s house that week. Yes, maybe I should have called the cops. Ironic now, isn’t it? But do you know how hard it is to condemn the hand that feeds you?
 
