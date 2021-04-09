@@ -23,6 +23,11 @@ entries:
         entries:
           - title: published in "astonishing stories", an anthology of networked speculative fiction.
             url: false
+      - title: mise en place
+        url: https://zine.mochi.club/nonspiracy/mise-en-place
+        entries:
+          - title: written for "nonspiracy", a zine I co-created with members of the crypto-social club Mochi. This is also my first short story NFT. 
+            url: false
 
 
   - title: blog
