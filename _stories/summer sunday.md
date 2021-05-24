@@ -1,7 +1,7 @@
 ---
 layout: story
-title: the community
-slug: the community
+title: summer sunday
+slug: summer sunday
 date: 2012-09-6
 ---
 “That's the thing,” he said, shaking his head. He was looking at the man that was walking away hurriedly.
