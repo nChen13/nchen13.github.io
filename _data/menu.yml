@@ -11,7 +11,7 @@ entries:
         url: https://twitter.com/iam_nChen
       - title: linkedin
         url: https://www.linkedin.com/in/nathan-chen1/
-      - title: newsletter
+      - title: newsletter (not live yet)
         url: https://nathanchen.substack.com/
 
   - title: stories
@@ -26,9 +26,8 @@ entries:
       - title: mise en place
         url: https://zine.mochi.club/nonspiracy/mise-en-place
         entries:
-          - title: written for "nonspiracy", a zine I co-created with members of the crypto-social club Mochi. This is also my first short story NFT. 
+          - title: written for "nonspiracy", a zine I co-created with members of the crypto-social club Mochi. This is also my first short story NFT.
             url: false
-
 
   - title: blog
     post_list: true
