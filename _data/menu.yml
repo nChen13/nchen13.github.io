@@ -32,10 +32,12 @@ entries:
         url: https://www.untitledfrontier.studio/blog/the-logged-universe-2-memories-of-atlas
         entries:
           - title: The second story in "The Logged Universe" series, which was started by Simon de la Rouviere. Read the first before mine -- this is the piece I'm most proud of.
+          - url: false
       - title: listening party
         url: https://zine.mochi.club/nonsense/listening-party
         entries:
-          -title: my short story for the 2nd Mochi zine.
+          - title: my short story for the 2nd Mochi zine.
+          - url: false
 
   - title: blog
     post_list: true
