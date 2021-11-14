@@ -28,6 +28,14 @@ entries:
         entries:
           - title: written for "nonspiracy", a zine I co-created with members of the crypto-social club Mochi. This is also my first short story NFT.
             url: false
+      - title: memories of atlas
+        url: https://www.untitledfrontier.studio/blog/the-logged-universe-2-memories-of-atlas
+        entries:
+          - title: The second story in "The Logged Universe" series, which was started by Simon de la Rouviere. Read the first before mine -- this is the piece I'm most proud of.
+      - title: listening party
+        url: https://zine.mochi.club/nonsense/listening-party
+        entries:
+          -title: my short story for the 2nd Mochi zine.
 
   - title: blog
     post_list: true
