@@ -27,3 +27,5 @@ plugins:
 collections:
   stories:
     output: true
+  poetry:
+    output: true
