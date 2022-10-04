@@ -1,0 +1,14 @@
+{% if site.poetry.size > 0 %}
+  <ul>
+    {% for poetry in site.poetry %}
+      <li>
+        <a href="{{ poetry.url | relative_url }}">{{ poetry.title | downcase }}</a>
+      </li>
+      {% if poetry.intro %}
+        <ul>
+          <li>{{ poetry.intro }}</li>
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
