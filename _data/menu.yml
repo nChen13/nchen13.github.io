@@ -36,6 +36,10 @@ entries:
         entries:
           - title: my short story for the 2nd Mochi zine.
             url: false
+  
+  - title: poetry
+    poetry_list: true
+    url: false
 
   - title: blog
     post_list: true
