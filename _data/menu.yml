@@ -40,6 +40,7 @@ entries:
   - title: poetry
     poetry_list: true
     url: false
+    entries: false
 
   - title: blog
     post_list: true
