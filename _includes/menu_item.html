@@ -15,6 +15,10 @@
     {% if item.story_list == true %}
       {% include story_list.html %}
     {% endif %}
+  
+    {% if item.poetry_list == true %}
+      {% include poetry_list.html %}
+    {% endif %}
 
     {% if item.entries != blank %}        
       {% include menu_item.html collection=item.entries %}
