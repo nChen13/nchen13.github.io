@@ -5,7 +5,6 @@ slug: red
 ---
 _for G.T._<br>
 <br>
-<br>
 _I want you to scream_, you said. We were part<br>
 of a mingling Bushwick rabble, all spread<br>
 
@@ -24,7 +23,7 @@ that almost nobody turned. I felt shame<br>
 and excitement. _See?_ you said.<br>
 I did — something cleansing about the burn,<br>
 
-how it revealed the tenderness underneath.<br>  
+how it revealed the tenderness underneath.
 The cry speaking up for something inside, stifled.<br> 
 
 Listen. That night, I began to take heed<br>
