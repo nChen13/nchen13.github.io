@@ -3,8 +3,9 @@ layout: poetry
 title: Red
 slug: red
 ---
-_for G.T._
-
+_for G.T._<br>
+<br>
+<br>
 _I want you to scream_, you said. We were part<br>
 of a mingling Bushwick rabble, all spread<br>
 
