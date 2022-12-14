@@ -21,7 +21,7 @@ entries:
         entries:
           - title: published in "astonishing stories", an anthology of networked speculative fiction.
             url: false
-      - title: mise en place
+      - title: mise en place (link dead — re-uploading soon!)
         url: https://zine.mochi.club/nonspiracy/mise-en-place
         entries:
           - title: written for "nonspiracy", a zine I co-created with members of the crypto-social club Mochi. This is also my first short story NFT.
@@ -31,13 +31,13 @@ entries:
         entries:
           - title: The second story in "The Logged Universe" series, which was started by Simon de la Rouviere. Read the first before mine -- this is the piece I'm most proud of.
             url: false
-      - title: listening party
+      - title: listening party (link dead - re-uploading soon!)
         url: https://zine.mochi.club/nonsense/listening-party
         entries:
           - title: my short story for the 2nd Mochi zine.
             url: false
   
-  - title: poetry
+  - title: poetry (please read these on a desktop, not mobile. Line breaks, if designed, won't show up on mobile.)
     poetry_list: true
     url: false
     entries: false
