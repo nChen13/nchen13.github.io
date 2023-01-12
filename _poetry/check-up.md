@@ -21,4 +21,4 @@ ravish the hard-earned prize. Just gently holds <br>
 the antelope in place, fangs pressed against <br>
 the soft hide. My seat lifts up. The dentist <br>
 shows me an x-ray. One tooth separated <br>
-from the pack. Just let it be, I want to say. <br> 
+from the pack. _Just let it be_, I want to say. <br> 
