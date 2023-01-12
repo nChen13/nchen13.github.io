@@ -37,7 +37,7 @@ entries:
           - title: my short story for the 2nd Mochi zine.
             url: false
   
-  - title: poetry (please read these on a desktop, not mobile. Line breaks, if designed, won't show up on mobile.)
+  - title: poetry *(please read these on a desktop, not mobile. Line breaks, if designed, won't show up on mobile.)*
     poetry_list: true
     url: false
     entries: false
