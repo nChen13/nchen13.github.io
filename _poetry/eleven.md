@@ -23,14 +23,14 @@ gritted boulders. i was thinking<br>
 of how we climbed those<br> 
 honeycombed rocks<br>
 <br>
-(&emsp;tip&emsp;toe&emsp;on<br> 
+(&emsp;&emsp;tip&emsp;&emsp;toe&emsp;&emsp;on<br> 
 serrations)<br>
 <br>
 and squinted at tempered<br> 
 shimmers,<br>
 <br>
-&emsp;when your name resurfaced<br> 
-&emsp;on<br>
+&emsp;&emsp;when your name resurfaced<br> 
+&emsp;&emsp;n<br>
 my phone. it shook<br>
 <br>
 like the<br>
