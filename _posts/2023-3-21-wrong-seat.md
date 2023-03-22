@@ -16,7 +16,7 @@ I couldn’t believe I hadn’t even considered the request. The man's question 
 
 While the two of us waited for the "Fasten Seatbelt Sign" to disappear, I looked down a couple rows to his wife, who I had seen him talking to. Her row looked like this:
 
-Passenger /-/ Empty Seat /-/ Wife /-/ Passenger 
+Passenger - Empty Seat - Wife - Passenger 
 
 If he only wanted to sit next to his wife, he didn't need to switch seats with me at all! My fellow passenger had rolled his Trojan Horse to the gates, and my misguided attempt at being a decent human had only let those carnal warriors inside seize my land. Clearly, he didn’t want to sit in a middle seat in order to be with his wife, and coveted my fortuitous comfort. This man should have mustered an ounce of candor and actually asked, "Hey, you have a better seat than me. Can we switch?" Instead, he artfully coated his request so I would not taste the bitter pill. 
 
