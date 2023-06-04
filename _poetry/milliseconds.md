@@ -17,4 +17,4 @@ Each white hair is a sugar straw stuck in a salt lick.<br>
 <br>
 I wake to find my baby pictures lying on my chest,<br>
 as if they drifted off to my heartbeat, and not the sobs,<br>
-listening to me murmur, oh god, what have I done to you.<br> 
+listening to me murmur, *oh god, what have I done to you.*<br> 
